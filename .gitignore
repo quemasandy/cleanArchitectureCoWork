@@ -1,1 +1,33 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos compilados de TypeScript
+dist/
+*.js
+*.js.map
+*.d.ts
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema operativo
 .DS_Store
+Thumbs.db
+
+# IDEs y editores
+.idea/
+*.swp
+*.swo
+*~
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos temporales
+tmp/
+temp/
+
+# Lock files (opcional — descomenta si no quieres commitearlos)
+# package-lock.json

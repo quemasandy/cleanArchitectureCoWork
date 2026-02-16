@@ -1,0 +1,13 @@
+{
+  "name": "key-code-clean-architecture",
+  "version": "1.0.0",
+  "description": "Clean Architecture - Conceptos fundamentales explicados con código",
+  "scripts": {
+    "example": "npx ts-node"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
