@@ -7,7 +7,7 @@ console.log("--- Iniciando ejemplo de dependencia cíclica ---");
 try {
   const empleadoServiceInfo = new EmpleadoServiceInfo();
   const nominaService = new NominaService(empleadoServiceInfo);
-  const empleadoService = new EmpleadoService(nominaService);
+  const empleadoService = new EmpleadoService(nominaService, empleadoServiceInfo);
   console.log(empleadoService.calcularSalarioTotal("1"));
 } catch (error) {
   console.error("\n❌ ERROR DETECTADO:");
