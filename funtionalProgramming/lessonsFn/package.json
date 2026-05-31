@@ -1,0 +1,13 @@
+{
+  "name": "functional-programming-lessons",
+  "version": "1.0.0",
+  "description": "Lecciones de Programación Funcional - Del libro Functional Programming in Scala, adaptado a TypeScript",
+  "scripts": {
+    "example": "npx ts-node"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
