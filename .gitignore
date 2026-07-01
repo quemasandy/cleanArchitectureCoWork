@@ -31,3 +31,8 @@ temp/
 
 # Lock files (opcional — descomenta si no quieres commitearlos)
 # package-lock.json
+
+# Datos
+*.zip
+*.txt
+*.vtt
