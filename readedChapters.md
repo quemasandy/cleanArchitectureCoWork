@@ -5,6 +5,10 @@
 - 22_The_Clean_Architecture.pdf
 - 23_Presenters_and_Humble_Objects.pdf
 
-# IN PROGRESS
+# PRACTICAL LESSON
 
 - 16_Independence.pdf
+
+# IN PROGRESS
+
+- 18_Boundary_Anatomy.pdf
