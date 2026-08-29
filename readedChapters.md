@@ -8,7 +8,8 @@
 # PRACTICAL LESSON
 
 - 16_Independence.pdf
+- 18_Boundary_Anatomy.pdf
 
 # IN PROGRESS
 
-- 18_Boundary_Anatomy.pdf
+- 34_The_Missing_Chapter.pdf
