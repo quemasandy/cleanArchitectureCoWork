@@ -9,7 +9,8 @@
 
 - 16_Independence.pdf
 - 18_Boundary_Anatomy.pdf
+- 34_The_Missing_Chapter.pdf
 
 # IN PROGRESS
 
-- 34_The_Missing_Chapter.pdf
+- 27_Services_Great_and_Small.pdf
