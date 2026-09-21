@@ -4,11 +4,11 @@
 - 20_Business_Rules.pdf
 - 22_The_Clean_Architecture.pdf
 - 23_Presenters_and_Humble_Objects.pdf
+- 16_Independence.pdf
+- 18_Boundary_Anatomy.pdf
 
 # PRACTICAL LESSON
 
-- 16_Independence.pdf
-- 18_Boundary_Anatomy.pdf
 - 34_The_Missing_Chapter.pdf
 
 # IN PROGRESS
