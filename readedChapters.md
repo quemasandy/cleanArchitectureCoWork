@@ -10,7 +10,8 @@
 # PRACTICAL LESSON
 
 - 34_The_Missing_Chapter.pdf
+- 27_Services_Great_and_Small.pdf
 
 # IN PROGRESS
 
-- 27_Services_Great_and_Small.pdf
+- 15_What_Is_Architecture.pdf
